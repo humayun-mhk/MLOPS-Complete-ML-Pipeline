@@ -1,0 +1,6 @@
+[core]
+    remote = dvc_store
+['remote "awsdvc_store"']
+    url = s3://mhkaws
+['remote "dvc_store"']
+    url = s3://mhkaws
